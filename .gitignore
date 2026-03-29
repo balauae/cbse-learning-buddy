@@ -1,0 +1,20 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+Class12.zip
+Class12/
+
+# Images
+images/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
