@@ -15,6 +15,11 @@ __pycache__/
 .venv/
 env/
 
+# Secrets/config
+.env
+.gradio/
+.gitattributes
+
 # OS
 .DS_Store
 Thumbs.db
