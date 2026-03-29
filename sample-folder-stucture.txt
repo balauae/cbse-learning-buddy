@@ -1,0 +1,190 @@
+(cbse-12th-buddy) ➜  bootcamp-project git:(master) tree Class12 
+Class12
+├── Accountancy_Part1
+│   ├── chapter_02.pdf
+│   ├── chapter_03.pdf
+│   ├── chapter_04.pdf
+│   ├── leac101..pdf
+│   └── prelims.pdf
+├── Accountancy_Part2
+│   ├── chapter_01.pdf
+│   ├── chapter_02.pdf
+│   ├── chapter_03.pdf
+│   ├── chapter_04.pdf
+│   ├── chapter_05.pdf
+│   ├── chapter_06.pdf
+│   └── prelims.pdf
+├── Biology
+│   ├── chapter_01.pdf
+│   ├── chapter_02.pdf
+│   ├── chapter_03.pdf
+│   ├── chapter_04.pdf
+│   ├── chapter_05.pdf
+│   ├── chapter_06.pdf
+│   ├── chapter_07.pdf
+│   ├── chapter_08.pdf
+│   ├── chapter_09.pdf
+│   ├── chapter_10.pdf
+│   ├── chapter_11.pdf
+│   ├── chapter_12.pdf
+│   ├── chapter_13.pdf
+│   └── prelims.pdf
+├── Biotechnology
+│   ├── chapter_01.pdf
+│   ├── chapter_02.pdf
+│   ├── chapter_03.pdf
+│   ├── chapter_04.pdf
+│   ├── chapter_05.pdf
+│   ├── chapter_06.pdf
+│   ├── chapter_07.pdf
+│   ├── chapter_08.pdf
+│   ├── chapter_09.pdf
+│   ├── chapter_10.pdf
+│   ├── chapter_11.pdf
+│   ├── chapter_12.pdf
+│   ├── chapter_13.pdf
+│   └── prelims.pdf
+├── Business_Studies_Part1
+│   ├── chapter_01.pdf
+│   ├── chapter_02.pdf
+│   ├── chapter_03.pdf
+│   ├── chapter_04.pdf
+│   ├── chapter_05.pdf
+│   ├── chapter_06.pdf
+│   ├── chapter_07.pdf
+│   ├── chapter_08.pdf
+│   └── prelims.pdf
+├── Business_Studies_Part2
+│   ├── chapter_01.pdf
+│   ├── chapter_02.pdf
+│   ├── chapter_03.pdf
+│   └── prelims.pdf
+├── Chemistry_Part1
+│   ├── answers.pdf
+│   ├── chapter_01.pdf
+│   ├── chapter_02.pdf
+│   ├── chapter_03.pdf
+│   ├── chapter_04.pdf
+│   ├── chapter_05.pdf
+│   ├── lech1a1.pdf
+│   └── prelims.pdf
+├── Chemistry_Part2
+│   ├── answers.pdf
+│   ├── chapter_01.pdf
+│   ├── chapter_02.pdf
+│   ├── chapter_03.pdf
+│   ├── chapter_04.pdf
+│   ├── chapter_05.pdf
+│   └── prelims.pdf
+├── Computer_Science
+│   ├── chapter_01.pdf
+│   ├── chapter_02.pdf
+│   ├── chapter_03.pdf
+│   ├── chapter_04.pdf
+│   ├── chapter_05.pdf
+│   ├── chapter_06.pdf
+│   ├── chapter_07.pdf
+│   ├── chapter_08.pdf
+│   ├── chapter_09.pdf
+│   ├── chapter_10.pdf
+│   ├── chapter_11.pdf
+│   ├── chapter_12.pdf
+│   ├── chapter_13.pdf
+│   └── prelims.pdf
+├── English_Flamingo
+│   ├── chapter_01.pdf
+│   ├── chapter_02.pdf
+│   ├── chapter_03.pdf
+│   ├── chapter_04.pdf
+│   ├── chapter_05.pdf
+│   ├── chapter_06.pdf
+│   ├── chapter_07.pdf
+│   ├── chapter_08.pdf
+│   ├── chapter_11.pdf
+│   ├── chapter_12.pdf
+│   ├── chapter_13.pdf
+│   ├── chapter_14.pdf
+│   ├── chapter_15.pdf
+│   └── prelims.pdf
+├── Informatics_Practices
+│   ├── chapter_01.pdf
+│   ├── chapter_02.pdf
+│   ├── chapter_03.pdf
+│   ├── chapter_04.pdf
+│   ├── chapter_05.pdf
+│   ├── chapter_06.pdf
+│   ├── chapter_07.pdf
+│   └── prelims.pdf
+├── Maths_Part1
+│   ├── answers.pdf
+│   ├── chapter_01.pdf
+│   ├── chapter_02.pdf
+│   ├── chapter_03.pdf
+│   ├── chapter_04.pdf
+│   ├── chapter_05.pdf
+│   ├── chapter_06.pdf
+│   ├── lemh1a1.pdf
+│   ├── lemh1a2.pdf
+│   └── prelims.pdf
+├── Maths_Part2
+│   ├── answers.pdf
+│   ├── chapter_01.pdf
+│   ├── chapter_02.pdf
+│   ├── chapter_03.pdf
+│   ├── chapter_04.pdf
+│   ├── chapter_05.pdf
+│   ├── chapter_06.pdf
+│   ├── chapter_07.pdf
+│   └── prelims.pdf
+├── Physics_Part1
+│   ├── answers.pdf
+│   ├── chapter_01.pdf
+│   ├── chapter_02.pdf
+│   ├── chapter_03.pdf
+│   ├── chapter_04.pdf
+│   ├── chapter_05.pdf
+│   ├── chapter_06.pdf
+│   ├── chapter_07.pdf
+│   ├── chapter_08.pdf
+│   └── prelims.pdf
+├── Physics_Part2
+│   ├── answers.pdf
+│   ├── chapter_01.pdf
+│   ├── chapter_02.pdf
+│   ├── chapter_03.pdf
+│   ├── chapter_04.pdf
+│   ├── chapter_05.pdf
+│   ├── chapter_06.pdf
+│   └── prelims.pdf
+├── Political_Science_Part1
+│   ├── chapter_01.pdf
+│   ├── chapter_02.pdf
+│   ├── chapter_03.pdf
+│   ├── chapter_04.pdf
+│   ├── chapter_05.pdf
+│   ├── chapter_06.pdf
+│   ├── chapter_07.pdf
+│   └── prelims.pdf
+├── Political_Science_Part2
+│   ├── chapter_01.pdf
+│   ├── chapter_02.pdf
+│   ├── chapter_03.pdf
+│   ├── chapter_04.pdf
+│   ├── chapter_05.pdf
+│   ├── chapter_06.pdf
+│   ├── chapter_07.pdf
+│   ├── chapter_08.pdf
+│   └── prelims.pdf
+└── Psychology
+    ├── chapter_01.pdf
+    ├── chapter_02.pdf
+    ├── chapter_03.pdf
+    ├── chapter_04.pdf
+    ├── chapter_05.pdf
+    ├── chapter_06.pdf
+    ├── chapter_07.pdf
+    ├── glossary.pdf
+    └── prelims.pdf
+
+19 directories, 167 files
+
