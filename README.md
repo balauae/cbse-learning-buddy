@@ -2,6 +2,8 @@
 
 A RAG-powered study assistant built on official NCERT Class XII textbooks. Ask questions from your syllabus and get accurate, cited answers.
 
+**Live Demo**: https://huggingface.co/spaces/balaprasannav2009/cbse-12th-buddy
+
 ## Features
 
 - **RAG pipeline** — Retrieves relevant textbook passages from a Pinecone vector store and answers using GPT-4o
