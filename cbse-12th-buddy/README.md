@@ -1,15 +1,3 @@
----
-title: Cbse 12th Buddy
-emoji: 💬
-colorFrom: yellow
-colorTo: purple
-sdk: gradio
-sdk_version: 6.5.1
-app_file: app.py
-pinned: false
-short_description: CBSE Class XII Learning Buddy
----
-
 # CBSE Class XII Learning Buddy
 
 A RAG-powered chatbot that answers questions from official NCERT Class XII textbooks using Pinecone vector search and GPT-4o.
